@@ -9,9 +9,9 @@ function App() {
 
 <div>
   
-  <div style={{border:"solid 1px black", width:100}}>
+  <div style={{border:"solid 1px black", maxWidth:"100vw"}}>
 
-<h1 className='title-red'>Your name here</h1>
+<h1 className='title-red'>Checkpoint JSX</h1>
 
 <div > <br/> </div>
 
